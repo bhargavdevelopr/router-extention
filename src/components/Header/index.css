@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.nav-header {
+  margin: 30px;
+}
+.blog-container {
+  display: flex;
+
+  height: 100px;
+  width: 100vp;
+  border: 3px solid #551e53;
+  border-radius: 8px;
+}
+.blog-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 200px;
+  color: #12022f;
+}
+.image {
+  height: 220px;
+  width: 220px;
+  margin: 6px;
+}
